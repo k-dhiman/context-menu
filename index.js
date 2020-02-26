@@ -15,21 +15,3 @@ document.onclick = function(e){
 		context.style.display = 'none';
 	}
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
